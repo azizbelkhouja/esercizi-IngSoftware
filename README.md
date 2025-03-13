@@ -22,3 +22,13 @@ Esercizio 3: Gestione Animali (Ereditarietà e Interfacce)
     Crea una classe astratta AnimaleBase che implementa Animale e ha un attributo nome.
     Implementa due classi concrete Cane e Gatto, che ereditano da AnimaleBase.
     Utilizza un array o una lista per memorizzare diversi animali e farli interagire.
+
+Esercizio 4: Gestione Dipendenti (Ereditarietà e Liste)
+    Crea un sistema per gestire i dipendenti di un'azienda.
+    Requisiti:
+    Crea una classe astratta Dipendente con attributi nome, stipendio e un metodo astratto calcolaStipendio().
+    Crea due classi Impiegato e Manager, che ereditano da Dipendente.
+    Un impiegato ha uno stipendio fisso.
+    Un manager ha uno stipendio fisso più un bonus.
+    Implementa una classe Azienda che memorizza i dipendenti in una lista e stampa gli stipendi totali.
+
