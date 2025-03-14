@@ -47,3 +47,12 @@ Esercizio 5: Sistema di Prenotazione di Viaggi (Ereditarietà, Interfacce, Liste
     Aggiungi gestione delle eccezioni per evitare la prenotazione di un viaggio già prenotato.
 
 
+Esercizio 6: Sistema di Pagamenti (Ereditarietà, Interfacce, Polimorfismo, Liste, Eccezioni)
+
+    Creiamo un sistema che gestisce pagamenti con diversi metodi.
+    Requisiti:
+    Crea un'interfaccia Pagabile con un metodo effettuaPagamento(double importo).
+    Crea una classe astratta MetodoPagamento con attributi saldoDisponibile.
+    Implementa le classi CartaDiCredito e PayPal, con comportamenti specifici per i pagamenti.
+    Aggiungi una classe SistemaPagamenti che gestisce una lista di metodi di pagamento.
+    Implementa eccezioni personalizzate per gestire il saldo insufficiente.
