@@ -27,6 +27,7 @@ Esercizio 3: Gestione Animali (Ereditarietà e Interfacce)
     Utilizza un array o una lista per memorizzare diversi animali e farli interagire.
 
 Esercizio 4: Gestione Dipendenti (Ereditarietà e Liste)
+
     Crea un sistema per gestire i dipendenti di un'azienda.
     Requisiti:
     Crea una classe astratta Dipendente con attributi nome, stipendio e un metodo astratto calcolaStipendio().
