@@ -36,3 +36,14 @@ Esercizio 4: Gestione Dipendenti (Ereditarietà e Liste)
     Un manager ha uno stipendio fisso più un bonus.
     Implementa una classe Azienda che memorizza i dipendenti in una lista e stampa gli stipendi totali.
 
+Esercizio 5: Sistema di Prenotazione di Viaggi (Ereditarietà, Interfacce, Liste, Eccezioni)
+
+    Creiamo un sistema per gestire prenotazioni di diversi tipi di viaggi.
+    Requisiti:
+    Crea un'interfaccia Prenotabile con un metodo prenota().
+    Crea una classe astratta Viaggio con attributi come destinazione, prezzo e un metodo descrizione().
+    Implementa due classi ViaggioAereo e ViaggioTreno, con caratteristiche specifiche (es. compagniaAerea, numeroPosto).
+    Gestisci le prenotazioni con una classe SistemaPrenotazioni che utilizza una List<Viaggio>.
+    Aggiungi gestione delle eccezioni per evitare la prenotazione di un viaggio già prenotato.
+
+
