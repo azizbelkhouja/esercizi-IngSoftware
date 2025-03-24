@@ -56,3 +56,7 @@ Esercizio 6: Sistema di Pagamenti (Ereditarietà, Interfacce, Polimorfismo, List
     Implementa le classi CartaDiCredito e PayPal, con comportamenti specifici per i pagamenti.
     Aggiungi una classe SistemaPagamenti che gestisce una lista di metodi di pagamento.
     Implementa eccezioni personalizzate per gestire il saldo insufficiente.
+
+Esercizio 7: PUNTO2D
+
+Esercizio 8: DIP nell’esempio dell’ereditarietà e delega ( da UML a java )
