@@ -31,6 +31,7 @@ class Utente extends Persona {
 }
 
 class StaffBiblioteca extends Persona {
+
     public StaffBiblioteca(String nome, String email) {
         super(nome, email);
     }
@@ -45,6 +46,7 @@ class StaffBiblioteca extends Persona {
 }
 
 class Libro {
+    
     private String titolo;
     private String autore;
     private boolean disponibile = true;
