@@ -69,3 +69,5 @@ Esercizio 11: https://drive.google.com/file/d/1SxKbTr6gsrbFnQyTuohTU-cy2KN9mVBM/
 
 Esercizio 12: Corriere Espresso ABC
 
+Esercizio 13: Esercitazione Classi Statiche e construttori ( ESERCIZIO 2 )
+
