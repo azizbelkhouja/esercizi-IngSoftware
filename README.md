@@ -66,3 +66,6 @@ Esercizio 9: Esame 21 feb 2025
 Esercizio 10: Sistema di Gestione degli Ordini per un Ristorante Online
 
 Esercizio 11: https://drive.google.com/file/d/1SxKbTr6gsrbFnQyTuohTU-cy2KN9mVBM/view (Esercizio 1 Esercitazioni 20mag 2024)
+
+Esercizio 12: Corriere Espresso ABC
+
