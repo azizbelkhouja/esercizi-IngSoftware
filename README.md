@@ -75,3 +75,5 @@ Esercizio 14: Prodotti Musicali
 
 Esercizio 15: Esempio d'esame proposto il 11/04/2025 (Esercizio 1 UML)
 
+Esercizio 16: Esempio d'esame proposto il 11/04/2025 ( Esercizio Sviluppo Java (10 pt) )
+
