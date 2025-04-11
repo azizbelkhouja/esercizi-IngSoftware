@@ -73,5 +73,5 @@ Esercizio 13: Esercitazione Classi Statiche e construttori ( ESERCIZIO 2 )
 
 Esercizio 14: Prodotti Musicali
 
-Esercizio 15: Esempio d'esame proposto il 11/04/2025
+Esercizio 15: Esempio d'esame proposto il 11/04/2025 (Esercizio 1 UML)
 
