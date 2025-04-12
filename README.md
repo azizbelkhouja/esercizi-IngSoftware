@@ -109,3 +109,7 @@ Esercizio 22: Interfaccia Animale (Interfacce + Ereditarietà)
     Crea un'interfaccia Animale con metodo verso().
     Implementa Cane e Gatto. Nel main, chiama il verso su una lista di animali.
 
+Esercizio 23: Contatore Generico (Generics)
+
+    Crea una classe Contatore<T> che conta elementi di tipo T.
+    Nel main, conta quanti numeri e quante stringhe ci sono in due array diversi.
