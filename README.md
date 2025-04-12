@@ -104,5 +104,8 @@ Esercizio 21: Filtro Numeri Pari (Array + if)
 
     Nel main, dichiara un array di interi. Stampa solo i numeri pari usando un ciclo.
 
+Esercizio 22: Interfaccia Animale (Interfacce + Ereditarietà)
 
+    Crea un'interfaccia Animale con metodo verso().
+    Implementa Cane e Gatto. Nel main, chiama il verso su una lista di animali.
 
