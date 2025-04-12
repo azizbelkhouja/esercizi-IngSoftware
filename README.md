@@ -113,3 +113,8 @@ Esercizio 23: Contatore Generico (Generics)
 
     Crea una classe Contatore<T> che conta elementi di tipo T.
     Nel main, conta quanti numeri e quante stringhe ci sono in due array diversi.
+
+Esercizio 24: Classifica Sportiva (ArrayList + Sorting)
+
+    Crea una classe Squadra con nome e punti.
+    Nel main, aggiungi squadre a una lista e ordinale in base ai punti.
