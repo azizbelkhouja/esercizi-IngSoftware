@@ -95,6 +95,11 @@ Esercizio 19: Forma Astratta (Classi astratte + ereditarietà)
     Implementa Cerchio e Rettangolo, e nel main crea un array di forme e stampa l’area di
     ciascuna.
 
+Esercizio 20: Registro Studenti (ArrayList + Classi)
+
+    Crea una classe Studente con nome, matricola, voti[].
+    Nel main, aggiungi studenti a un ArrayList, calcola e stampa la media voti.
+
 
 
 
