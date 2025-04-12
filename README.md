@@ -139,3 +139,8 @@ Esercizio 28: Registro Presenze (Array 2D)
     Gestisci un array bidimensionale per tracciare le presenze di studenti in una settimana.
     Nel main, stampa le presenze totali per ogni studente.
 
+Esercizio 29: Macchina Astratta (Classe Astratta + Overriding)
+
+    Crea una classe astratta Macchina con metodo avvia().
+    Implementa Auto e Moto. Nel main, chiama avvia() su entrambe.
+
