@@ -89,5 +89,12 @@ Esercizio 18: Somma da Input (args + array)
     Nel main(String[] args), prendi una serie di numeri interi da riga di comando e stampa
     la loro somma.
 
+Esercizio 19: Forma Astratta (Classi astratte + ereditarietà)
+
+    Crea una classe astratta Forma con metodo astratto double area().
+    Implementa Cerchio e Rettangolo, e nel main crea un array di forme e stampa l’area di
+    ciascuna.
+
+
 
 
