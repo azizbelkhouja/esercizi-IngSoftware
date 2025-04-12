@@ -173,5 +173,12 @@ Esercizio 35: Interfaccia Pagabile (Interfacce)
     Crea un'interfaccia Pagabile con metodo calcolaTotale().
     Implementa in Fattura e Abbonamento. Stampa il totale da pagare.
 
+Esercizio 36: Diario di Bordo (ArrayList + Date)
+
+    Crea una classe VoceDiario con testo e data (usa LocalDate).
+    Nel main, aggiungi voci e stampa quelle degli ultimi 7 giorni.
+
+
+
 
 
