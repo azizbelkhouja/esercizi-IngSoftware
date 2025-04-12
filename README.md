@@ -149,5 +149,10 @@ Esercizio 30: Parole Lunghe (Array + Condizioni)
     Nel main, prendi da args una lista di parole.
     Stampa solo quelle più lunghe di 5 lettere.
 
+Esercizio 31: Biblioteca (ArrayList + Oggetti)
+
+    Crea una classe Libro con titolo, autore, anno.
+    Nel main, inserisci e stampa una lista di libri in una ArrayList.
+
 
 
