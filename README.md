@@ -198,7 +198,11 @@ Esercizio 39: Rubrica Telefonica (ArrayList + Ricerca)
     per memorizzare i contatti. Nel main, consenti l'aggiunta, la rimozione e la ricerca di contatti
     per nome.
 
-Esercizio 40: 
+Esercizio 40: Calcolatrice Avanzata (Classi Astratte + Polimorfismo)
+
+    Definisci una classe astratta Operazione con un metodo calcola(). Implementa
+    sottoclassi per le operazioni di somma, sottrazione, moltiplicazione e divisione. Nel main,
+    esegui operazioni basate sull'input dell'utente.
 
 
 
