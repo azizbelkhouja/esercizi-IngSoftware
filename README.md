@@ -192,7 +192,7 @@ Esercizio 38: Sistema di Biblioteca (Ereditarietà + Interfacce)
     Rivista. Crea un'interfaccia Prestabile con metodi per il prestito e la restituzione. Nel
     main, gestisci il prestito e la restituzione di materiali.
 
-
+Esercizio 39: 
 
 
 
