@@ -186,6 +186,12 @@ Esercizio 37: Gestione di un Negozio Online (OOP + ArrayList)
     di ciascun cliente. Nel main, consenti l'aggiunta di prodotti al carrello e la visualizzazione del
     totale dell'ordine.
 
+Esercizio 38: Sistema di Biblioteca (Ereditarietà + Interfacce)
+
+    Implementa una classe astratta MaterialeBibliotecario con sottoclassi Libro e
+    Rivista. Crea un'interfaccia Prestabile con metodi per il prestito e la restituzione. Nel
+    main, gestisci il prestito e la restituzione di materiali.
+
 
 
 
