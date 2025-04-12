@@ -100,6 +100,9 @@ Esercizio 20: Registro Studenti (ArrayList + Classi)
     Crea una classe Studente con nome, matricola, voti[].
     Nel main, aggiungi studenti a un ArrayList, calcola e stampa la media voti.
 
+Esercizio 21: Filtro Numeri Pari (Array + if)
+
+    Nel main, dichiara un array di interi. Stampa solo i numeri pari usando un ciclo.
 
 
 
