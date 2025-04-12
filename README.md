@@ -223,6 +223,9 @@ Esercizio 43: Gestione di un Magazzino (Generics + HashMap)
     magazzino.
 
 
+Esercizio 44: 
+
+
 
 
 
