@@ -235,7 +235,13 @@ Esercizio 45: Gestione di Eventi (ArrayList + Date)
     gli eventi. Nel main, consenti l'aggiunta e la visualizzazione degli eventi in ordine
     cronologico.
 
-Esercizio 46: 
+Esercizio 46: Sistema di Pagamenti (Interfacce + Polimorfismo)
+
+    Definisci un'interfaccia MetodoPagamento con un metodo paga(). Implementa classi
+    CartaDiCredito e PayPal che implementano l'interfaccia. Nel main, esegui pagamenti
+    utilizzando diversi metodi.
+
+Esercizio 47: 
 
 
 
