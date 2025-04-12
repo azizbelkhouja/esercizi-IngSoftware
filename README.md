@@ -159,5 +159,12 @@ Esercizio 32: Stack Generico (Generics + ArrayList)
     Crea una classe Stack<T> con metodi push, pop, peek.
     Nel main, crea uno stack di stringhe e prova tutte le operazioni.
 
+Esercizio 33: Scacchiera (Array 2D + Logica)
+
+    Crea una scacchiera 8x8 in un array 2D e popola la prima riga con “Torre”, “Cavallo”, ecc.
+    Nel main, stampa la scacchiera.
+
+
+
 
 
