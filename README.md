@@ -178,6 +178,16 @@ Esercizio 36: Diario di Bordo (ArrayList + Date)
     Crea una classe VoceDiario con testo e data (usa LocalDate).
     Nel main, aggiungi voci e stampa quelle degli ultimi 7 giorni.
 
+**Livello: intermedio**
+
+
+
+
+
+    for ($i=40; $i -le 72; $i++) {
+        New-Item -ItemType Directory -Name "Esercizio_$i"
+        New-Item -ItemType File -Name "Main.java" -Path "Esercizio_$i"
+    }
 
 
 
