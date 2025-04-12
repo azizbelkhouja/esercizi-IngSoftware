@@ -84,5 +84,10 @@ Esercizio 17: Rubrica Telefonica (ArrayList + Incapsulamento)
     Crea una classe Contatto con nome, numero di telefono (privati) e metodi getter/setter.
     Nel main, usa un ArrayList<Contatto> per gestire l’aggiunta e la stampa dei contatti.
 
+Esercizio 18: Somma da Input (args + array)
+
+    Nel main(String[] args), prendi una serie di numeri interi da riga di comando e stampa
+    la loro somma.
+
 
 
