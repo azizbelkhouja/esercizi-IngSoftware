@@ -192,7 +192,13 @@ Esercizio 38: Sistema di Biblioteca (Ereditarietà + Interfacce)
     Rivista. Crea un'interfaccia Prestabile con metodi per il prestito e la restituzione. Nel
     main, gestisci il prestito e la restituzione di materiali.
 
-Esercizio 39: 
+Esercizio 39: Rubrica Telefonica (ArrayList + Ricerca)
+
+    Crea una classe Contatto con nome, numero di telefono ed email. Utilizza un ArrayList
+    per memorizzare i contatti. Nel main, consenti l'aggiunta, la rimozione e la ricerca di contatti
+    per nome.
+
+Esercizio 40: 
 
 
 
