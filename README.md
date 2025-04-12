@@ -223,7 +223,13 @@ Esercizio 43: Gestione di un Magazzino (Generics + HashMap)
     magazzino.
 
 
-Esercizio 44: 
+Esercizio 44: 8. Sistema di Votazione (Array + Statistiche)
+
+    Crea una classe Votazione che utilizza un array per memorizzare i voti. Implementa
+    metodi per calcolare la media, il voto massimo e minimo. Nel main, consenti l'inserimento
+    dei voti e visualizza le statistiche.
+
+Esercizio 45: 
 
 
 
