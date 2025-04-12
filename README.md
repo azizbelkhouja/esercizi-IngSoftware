@@ -119,3 +119,8 @@ Esercizio 24: Classifica Sportiva (ArrayList + Sorting)
     Crea una classe Squadra con nome e punti.
     Nel main, aggiungi squadre a una lista e ordinale in base ai punti.
 
+Esercizio 25: Incapsulamento Base (get/set)
+
+    Crea una classe Persona con nome e età privati.
+    Nel main, crea una persona e modifica i dati con i metodi pubblici.
+
