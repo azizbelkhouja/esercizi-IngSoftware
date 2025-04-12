@@ -229,7 +229,13 @@ Esercizio 44: 8. Sistema di Votazione (Array + Statistiche)
     metodi per calcolare la media, il voto massimo e minimo. Nel main, consenti l'inserimento
     dei voti e visualizza le statistiche.
 
-Esercizio 45: 
+Esercizio 45: Gestione di Eventi (ArrayList + Date)
+
+    Crea una classe Evento con nome, data e luogo. Utilizza un ArrayList per memorizzare
+    gli eventi. Nel main, consenti l'aggiunta e la visualizzazione degli eventi in ordine
+    cronologico.
+
+Esercizio 46: 
 
 
 
