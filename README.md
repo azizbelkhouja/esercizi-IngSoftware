@@ -204,7 +204,11 @@ Esercizio 40: Calcolatrice Avanzata (Classi Astratte + Polimorfismo)
     sottoclassi per le operazioni di somma, sottrazione, moltiplicazione e divisione. Nel main,
     esegui operazioni basate sull'input dell'utente.
 
-Esercizio 41: 
+Esercizio 41: Gestione di una Scuola (Ereditarietà + Array)
+
+    Crea una classe Persona con sottoclassi Studente e Insegnante. Utilizza un array per
+    memorizzare gli studenti e gli insegnanti. Nel main, consenti l'aggiunta e la visualizzazione
+    delle informazioni delle persone.
 
 
 
