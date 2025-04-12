@@ -164,6 +164,10 @@ Esercizio 33: Scacchiera (Array 2D + Logica)
     Crea una scacchiera 8x8 in un array 2D e popola la prima riga con “Torre”, “Cavallo”, ecc.
     Nel main, stampa la scacchiera.
 
+Esercizio 34: Ordina Parole (args + Arrays.sort)
+    
+    Nel main, ricevi da args parole da ordinare alfabeticamente e stampale in ordine.
+
 
 
 
