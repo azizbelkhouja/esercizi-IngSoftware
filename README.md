@@ -168,7 +168,10 @@ Esercizio 34: Ordina Parole (args + Arrays.sort)
     
     Nel main, ricevi da args parole da ordinare alfabeticamente e stampale in ordine.
 
+Esercizio 35: Interfaccia Pagabile (Interfacce)
 
+    Crea un'interfaccia Pagabile con metodo calcolaTotale().
+    Implementa in Fattura e Abbonamento. Stampa il totale da pagare.
 
 
 
