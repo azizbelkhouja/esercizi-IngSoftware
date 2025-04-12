@@ -204,6 +204,8 @@ Esercizio 40: Calcolatrice Avanzata (Classi Astratte + Polimorfismo)
     sottoclassi per le operazioni di somma, sottrazione, moltiplicazione e divisione. Nel main,
     esegui operazioni basate sull'input dell'utente.
 
+Esercizio 41: 
+
 
 
 
