@@ -144,3 +144,10 @@ Esercizio 29: Macchina Astratta (Classe Astratta + Overriding)
     Crea una classe astratta Macchina con metodo avvia().
     Implementa Auto e Moto. Nel main, chiama avvia() su entrambe.
 
+Esercizio 30: Parole Lunghe (Array + Condizioni)
+
+    Nel main, prendi da args una lista di parole.
+    Stampa solo quelle più lunghe di 5 lettere.
+
+
+
