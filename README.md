@@ -134,3 +134,8 @@ Esercizio 27: Magazzino Prodotti (ArrayList + Ricerca)
     Crea una classe Prodotto con nome, codice, prezzo.
     Nel main, cerca un prodotto per codice tra quelli inseriti in un ArrayList.
 
+Esercizio 28: Registro Presenze (Array 2D)
+
+    Gestisci un array bidimensionale per tracciare le presenze di studenti in una settimana.
+    Nel main, stampa le presenze totali per ogni studente.
+
