@@ -180,11 +180,13 @@ Esercizio 36: Diario di Bordo (ArrayList + Date)
 
 **Livello: intermedio**
 
-Esercizio 37: 1. Gestione di un Negozio Online (OOP + ArrayList)
+Esercizio 37: Gestione di un Negozio Online (OOP + ArrayList)
 
     Crea le classi Prodotto, Cliente e Ordine. Utilizza un ArrayList per gestire gli ordini
     di ciascun cliente. Nel main, consenti l'aggiunta di prodotti al carrello e la visualizzazione del
     totale dell'ordine.
+
+
 
 
 
