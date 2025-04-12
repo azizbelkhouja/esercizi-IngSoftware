@@ -124,3 +124,4 @@ Esercizio 25: Incapsulamento Base (get/set)
     Crea una classe Persona con nome e età privati.
     Nel main, crea una persona e modifica i dati con i metodi pubblici.
 
+
