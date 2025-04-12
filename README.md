@@ -210,6 +210,18 @@ Esercizio 41: Gestione di una Scuola (Ereditarietà + Array)
     memorizzare gli studenti e gli insegnanti. Nel main, consenti l'aggiunta e la visualizzazione
     delle informazioni delle persone.
 
+Esercizio 42: Sistema di Prenotazione (Interfacce + ArrayList)
+
+    Definisci un'interfaccia Prenotabile con metodi per prenotare e cancellare. Implementa
+    classi Volo e Hotel che implementano l'interfaccia. Nel main, gestisci le prenotazioni per
+    voli e hotel.
+
+Esercizio 43: 
+
+
+
+
+
 
 
 
