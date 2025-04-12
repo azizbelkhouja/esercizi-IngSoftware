@@ -128,3 +128,9 @@ Esercizio 26: Calcolatrice con switch (args)
 
     Usa args per ricevere due numeri e un'operazione (+, -, *, /).
     Stampa il risultato.
+
+Esercizio 27: Magazzino Prodotti (ArrayList + Ricerca)
+
+    Crea una classe Prodotto con nome, codice, prezzo.
+    Nel main, cerca un prodotto per codice tra quelli inseriti in un ArrayList.
+
