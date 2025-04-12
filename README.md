@@ -216,7 +216,11 @@ Esercizio 42: Sistema di Prenotazione (Interfacce + ArrayList)
     classi Volo e Hotel che implementano l'interfaccia. Nel main, gestisci le prenotazioni per
     voli e hotel.
 
-Esercizio 43: 
+Esercizio 43: Gestione di un Magazzino (Generics + HashMap)
+
+    Crea una classe generica Magazzino<T> che utilizza un HashMap per memorizzare gli
+    oggetti e le loro quantità. Nel main, gestisci l'aggiunta e la rimozione di prodotti dal
+    magazzino.
 
 
 
