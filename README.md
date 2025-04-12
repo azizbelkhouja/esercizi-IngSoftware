@@ -203,7 +203,7 @@ Esercizio 40:
 
 
 
-
+# PowerShell Script for Creating Folders and Files:
     for ($i=40; $i -le 72; $i++) {
         New-Item -ItemType Directory -Name "Esercizio_$i"
         New-Item -ItemType File -Name "Main.java" -Path "Esercizio_$i"
