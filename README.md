@@ -77,3 +77,12 @@ Esercizio 15: Esempio d'esame proposto il 11/04/2025 (Esercizio 1 UML)
 
 Esercizio 16: Esempio d'esame proposto il 11/04/2025 ( Esercizio Sviluppo Java (10 pt) )
 
+**LIVELLO: FACILE**
+
+Esercizio 17: Rubrica Telefonica (ArrayList + Incapsulamento)
+
+    Crea una classe Contatto con nome, numero di telefono (privati) e metodi getter/setter.
+    Nel main, usa un ArrayList<Contatto> per gestire l’aggiunta e la stampa dei contatti.
+
+
+
