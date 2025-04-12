@@ -154,5 +154,10 @@ Esercizio 31: Biblioteca (ArrayList + Oggetti)
     Crea una classe Libro con titolo, autore, anno.
     Nel main, inserisci e stampa una lista di libri in una ArrayList.
 
+Esercizio 32: Stack Generico (Generics + ArrayList)
+
+    Crea una classe Stack<T> con metodi push, pop, peek.
+    Nel main, crea uno stack di stringhe e prova tutte le operazioni.
+
 
 
