@@ -252,6 +252,8 @@ Esercizio 48: Sistema di Login (HashMap + Sicurezza)
     Crea una classe Utente con username e password. Utilizza un HashMap per memorizzare
     gli utenti. Nel main, consenti la registrazione e il login degli utenti, verificando le credenziali.
 
+Esercizio 49: 
+
 
 
 
