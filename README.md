@@ -178,7 +178,7 @@ Esercizio 36: Diario di Bordo (ArrayList + Date)
     Crea una classe VoceDiario con testo e data (usa LocalDate).
     Nel main, aggiungi voci e stampa quelle degli ultimi 7 giorni.
 
-**Livello: intermedio**
+# **Livello: intermedio**
 
 Esercizio 37: Gestione di un Negozio Online (OOP + ArrayList)
 
@@ -268,7 +268,7 @@ Esercizio 51: Gestione di un Calendario (ArrayList + Date)
     memorizzare gli appuntamenti. Nel main, consenti l'aggiunta e la visualizzazione degli
     appuntamenti.
 
-**Livello: intermedio-scomodo**
+# **Livello: intermedio-scomodo**
 
 Esercizio 52: Sistema di Inventario (Generics + ArrayList)
 
@@ -286,8 +286,8 @@ Esercizio 53:
 
 # PowerShell Script for Creating Folders and Files:
     for ($i=1; $i -le 72; $i++) {
-        New-Item -ItemType Directory -Name "Esercizio_$i"
-        New-Item -ItemType File -Name "Main.java" -Path "Esercizio_$i"
+        New-Item -ItemType Directory -Name "Esercizio $i"
+        New-Item -ItemType File -Name "Main.java" -Path "Esercizio $i"
     }
 
 
