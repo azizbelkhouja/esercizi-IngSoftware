@@ -324,9 +324,13 @@ Esercizio 60: Sistema di Statistiche Universitarie (Classi + Calcoli)
     Calcola media generale, numero studenti sopra/sotto soglia.
     Nel main, leggi dati da args o da input testuale.
 
-Esercizio 61: 
+Esercizio 61: Generatore di Codici Fiscali (Stringhe + Calcoli)
 
+    Crea una classe CodiceFiscaleGenerator che, dato nome, cognome, data e luogo di
+    nascita, genera un codice fiscale simulato.
+    Nel main, mostra il codice per più persone.
 
+Esercizio 62: 
 
 
 
