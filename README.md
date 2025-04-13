@@ -268,7 +268,15 @@ Esercizio 51: Gestione di un Calendario (ArrayList + Date)
     memorizzare gli appuntamenti. Nel main, consenti l'aggiunta e la visualizzazione degli
     appuntamenti.
 
-Esercizio 52: 
+**Livello: intermedio-scomodo**
+
+Esercizio 52: Sistema di Inventario (Generics + ArrayList)
+
+    Crea una classe generica Inventario<T> che memorizza oggetti con quantità.
+    Aggiungi metodi per inserire, rimuovere e cercare elementi.
+    Nel main, crea un inventario di prodotti e uno di strumenti.
+
+Esercizio 53: 
 
 
 
