@@ -247,7 +247,10 @@ Esercizio 47: Gestione di una Playlist (ArrayList + File I/O)
     memorizzare le canzoni. Nel main, consenti l'aggiunta di canzoni e salva/carica la playlist
     da un file.
 
-Esercizio 48: 
+Esercizio 48: Sistema di Login (HashMap + Sicurezza)
+
+    Crea una classe Utente con username e password. Utilizza un HashMap per memorizzare
+    gli utenti. Nel main, consenti la registrazione e il login degli utenti, verificando le credenziali.
 
 
 
