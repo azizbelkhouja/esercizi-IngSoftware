@@ -312,7 +312,13 @@ Esercizio 58: Convertitore di Valute (Enum + Interfaccia)
     Crea un metodo per convertire da una valuta all’altra.
     Nel main, chiedi importo e valuta di destinazione.
 
-Esercizio 59: 
+Esercizio 59: Mini CRM (Clienti, Interazioni, Appuntamenti)
+
+    Crea le classi Cliente, Interazione, Appuntamento.
+    Collega ogni cliente a un elenco di interazioni.
+    Nel main, gestisci l’inserimento e la visualizzazione delle relazioni.
+
+Esercizio 60: 
 
 
 
