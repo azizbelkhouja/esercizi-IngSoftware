@@ -262,7 +262,13 @@ Esercizio 50: Sistema di Fatturazione (Classi + Calcoli)
     Crea una classe Fattura con cliente, elenco di prodotti e totale. Nel main, consenti la
     creazione di fatture e il calcolo del totale con IVA.
 
-Esercizio 51: 
+Esercizio 51: Gestione di un Calendario (ArrayList + Date)
+
+    Crea una classe Appuntamento con data, ora e descrizione. Utilizza un ArrayList per
+    memorizzare gli appuntamenti. Nel main, consenti l'aggiunta e la visualizzazione degli
+    appuntamenti.
+
+Esercizio 52: 
 
 
 
