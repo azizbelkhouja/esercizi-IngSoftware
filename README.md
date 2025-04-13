@@ -241,7 +241,13 @@ Esercizio 46: Sistema di Pagamenti (Interfacce + Polimorfismo)
     CartaDiCredito e PayPal che implementano l'interfaccia. Nel main, esegui pagamenti
     utilizzando diversi metodi.
 
-Esercizio 47: 
+Esercizio 47: Gestione di una Playlist (ArrayList + File I/O)
+
+    Crea una classe Canzone con titolo, artista e durata. Utilizza un ArrayList per
+    memorizzare le canzoni. Nel main, consenti l'aggiunta di canzoni e salva/carica la playlist
+    da un file.
+
+Esercizio 48: 
 
 
 
