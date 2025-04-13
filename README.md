@@ -252,7 +252,12 @@ Esercizio 48: Sistema di Login (HashMap + Sicurezza)
     Crea una classe Utente con username e password. Utilizza un HashMap per memorizzare
     gli utenti. Nel main, consenti la registrazione e il login degli utenti, verificando le credenziali.
 
-Esercizio 49: 
+Esercizio 49: Gestione di una Biblioteca (Array + Ricerca)
+
+    Crea una classe Libro con titolo, autore e ISBN. Utilizza un array per memorizzare i libri.
+    Nel main, consenti l'aggiunta e la ricerca di libri per titolo o autore.
+
+Esercizio 50: 
 
 
 
