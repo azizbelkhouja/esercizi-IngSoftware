@@ -257,8 +257,12 @@ Esercizio 49: Gestione di una Biblioteca (Array + Ricerca)
     Crea una classe Libro con titolo, autore e ISBN. Utilizza un array per memorizzare i libri.
     Nel main, consenti l'aggiunta e la ricerca di libri per titolo o autore.
 
-Esercizio 50: 
+Esercizio 50: Sistema di Fatturazione (Classi + Calcoli)
 
+    Crea una classe Fattura con cliente, elenco di prodotti e totale. Nel main, consenti la
+    creazione di fatture e il calcolo del totale con IVA.
+
+Esercizio 51: 
 
 
 
