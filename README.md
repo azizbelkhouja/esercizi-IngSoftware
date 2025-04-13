@@ -300,9 +300,13 @@ Esercizio 56: Gioco "Battaglia Navale" semplificato (Array + Logica)
     L'utente inserisce coordinate e riceve esito (colpito o mancato).
     Il gioco termina quando tutte le navi sono affondate.
 
-Esercizio 57: 
+Esercizio 57: Registro Presenze Studenti (ArrayList + Map)
 
+    Gestisci un registro dove ogni Studente ha un elenco di date di presenza.
+    Usa una Map<Studente, List<LocalDate>>.
+    Nel main, aggiungi presenze e stampa il riepilogo.
 
+Esercizio 58: 
 
 
 
