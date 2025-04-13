@@ -294,7 +294,24 @@ Esercizio 55: Sistema di Sondaggi (Interfacce + Statistiche)
     Crea classi DomandaSiNo, DomandaScala (1–5).
     Nel main, raccogli e analizza le risposte di un sondaggio.
 
-Esercizio 56: 
+Esercizio 56: Gioco "Battaglia Navale" semplificato (Array + Logica)
+
+    Crea una griglia 5x5 con alcune navi nascoste.
+    L'utente inserisce coordinate e riceve esito (colpito o mancato).
+    Il gioco termina quando tutte le navi sono affondate.
+
+Esercizio 57: 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
