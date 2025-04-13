@@ -306,9 +306,13 @@ Esercizio 57: Registro Presenze Studenti (ArrayList + Map)
     Usa una Map<Studente, List<LocalDate>>.
     Nel main, aggiungi presenze e stampa il riepilogo.
 
-Esercizio 58: 
+Esercizio 58: Convertitore di Valute (Enum + Interfaccia)
 
+    Definisci un enum con valute e relativi tassi di cambio rispetto all’euro.
+    Crea un metodo per convertire da una valuta all’altra.
+    Nel main, chiedi importo e valuta di destinazione.
 
+Esercizio 59: 
 
 
 
