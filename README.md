@@ -318,7 +318,13 @@ Esercizio 59: Mini CRM (Clienti, Interazioni, Appuntamenti)
     Collega ogni cliente a un elenco di interazioni.
     Nel main, gestisci l’inserimento e la visualizzazione delle relazioni.
 
-Esercizio 60: 
+Esercizio 60: Sistema di Statistiche Universitarie (Classi + Calcoli)
+
+    Gestisci una lista di Studente con media, esami sostenuti.
+    Calcola media generale, numero studenti sopra/sotto soglia.
+    Nel main, leggi dati da args o da input testuale.
+
+Esercizio 61: 
 
 
 
