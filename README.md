@@ -282,9 +282,13 @@ Esercizio 53: Simulazione di Gara Sportiva (OOP + Ordinamento)
     Memorizzali in un ArrayList, ordina per tempo crescente.
     Nel main, stampa la classifica finale.
 
-Esercizio 54: 
+Esercizio 54: Analizzatore di Testo (File I/O + Map + Frequenze)
 
+    Leggi un file di testo, conta quante volte compare ogni parola (case insensitive).
+    Usa una HashMap<String, Integer>.
+    Nel main, stampa le parole ordinate per frequenza.
 
+Esercizio 55: 
 
 
 
