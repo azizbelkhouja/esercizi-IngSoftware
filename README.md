@@ -77,7 +77,7 @@ Esercizio 15: Esempio d'esame proposto il 11/04/2025 (Esercizio 1 UML)
 
 Esercizio 16: Esempio d'esame proposto il 11/04/2025 ( Esercizio Sviluppo Java (10 pt) )
 
-**LIVELLO: FACILE**
+# LIVELLO: FACILE
 
 Esercizio 17: Rubrica Telefonica (ArrayList + Incapsulamento)
 
@@ -178,7 +178,7 @@ Esercizio 36: Diario di Bordo (ArrayList + Date)
     Crea una classe VoceDiario con testo e data (usa LocalDate).
     Nel main, aggiungi voci e stampa quelle degli ultimi 7 giorni.
 
-# **Livello: intermedio**
+# Livello: intermedio
 
 Esercizio 37: Gestione di un Negozio Online (OOP + ArrayList)
 
@@ -268,7 +268,7 @@ Esercizio 51: Gestione di un Calendario (ArrayList + Date)
     memorizzare gli appuntamenti. Nel main, consenti l'aggiunta e la visualizzazione degli
     appuntamenti.
 
-# **Livello: intermedio-scomodo**
+# Livello: intermedio-scomodo
 
 Esercizio 52: Sistema di Inventario (Generics + ArrayList)
 
