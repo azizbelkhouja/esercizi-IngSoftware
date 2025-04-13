@@ -276,7 +276,13 @@ Esercizio 52: Sistema di Inventario (Generics + ArrayList)
     Aggiungi metodi per inserire, rimuovere e cercare elementi.
     Nel main, crea un inventario di prodotti e uno di strumenti.
 
-Esercizio 53: 
+Esercizio 53: Simulazione di Gara Sportiva (OOP + Ordinamento)
+
+    Crea una classe Atleta con tempo di gara.
+    Memorizzali in un ArrayList, ordina per tempo crescente.
+    Nel main, stampa la classifica finale.
+
+Esercizio 54: 
 
 
 
