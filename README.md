@@ -288,7 +288,13 @@ Esercizio 54: Analizzatore di Testo (File I/O + Map + Frequenze)
     Usa una HashMap<String, Integer>.
     Nel main, stampa le parole ordinate per frequenza.
 
-Esercizio 55: 
+Esercizio 55: Sistema di Sondaggi (Interfacce + Statistiche)
+
+    Definisci un’interfaccia Domanda con un metodo rispondi().
+    Crea classi DomandaSiNo, DomandaScala (1–5).
+    Nel main, raccogli e analizza le risposte di un sondaggio.
+
+Esercizio 56: 
 
 
 
