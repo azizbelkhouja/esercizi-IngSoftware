@@ -252,85 +252,8 @@ Esercizio 48: Sistema di Login (HashMap + Sicurezza)
     Crea una classe Utente con username e password. Utilizza un HashMap per memorizzare
     gli utenti. Nel main, consenti la registrazione e il login degli utenti, verificando le credenziali.
 
-Esercizio 49: Gestione di una Biblioteca (Array + Ricerca)
+Esercizio 49: 
 
-    Crea una classe Libro con titolo, autore e ISBN. Utilizza un array per memorizzare i libri.
-    Nel main, consenti l'aggiunta e la ricerca di libri per titolo o autore.
-
-Esercizio 50: Sistema di Fatturazione (Classi + Calcoli)
-
-    Crea una classe Fattura con cliente, elenco di prodotti e totale. Nel main, consenti la
-    creazione di fatture e il calcolo del totale con IVA.
-
-Esercizio 51: Gestione di un Calendario (ArrayList + Date)
-
-    Crea una classe Appuntamento con data, ora e descrizione. Utilizza un ArrayList per
-    memorizzare gli appuntamenti. Nel main, consenti l'aggiunta e la visualizzazione degli
-    appuntamenti.
-
-# Livello: intermedio-scomodo
-
-Esercizio 52: Sistema di Inventario (Generics + ArrayList)
-
-    Crea una classe generica Inventario<T> che memorizza oggetti con quantità.
-    Aggiungi metodi per inserire, rimuovere e cercare elementi.
-    Nel main, crea un inventario di prodotti e uno di strumenti.
-
-Esercizio 53: Simulazione di Gara Sportiva (OOP + Ordinamento)
-
-    Crea una classe Atleta con tempo di gara.
-    Memorizzali in un ArrayList, ordina per tempo crescente.
-    Nel main, stampa la classifica finale.
-
-Esercizio 54: Analizzatore di Testo (File I/O + Map + Frequenze)
-
-    Leggi un file di testo, conta quante volte compare ogni parola (case insensitive).
-    Usa una HashMap<String, Integer>.
-    Nel main, stampa le parole ordinate per frequenza.
-
-Esercizio 55: Sistema di Sondaggi (Interfacce + Statistiche)
-
-    Definisci un’interfaccia Domanda con un metodo rispondi().
-    Crea classi DomandaSiNo, DomandaScala (1–5).
-    Nel main, raccogli e analizza le risposte di un sondaggio.
-
-Esercizio 56: Gioco "Battaglia Navale" semplificato (Array + Logica)
-
-    Crea una griglia 5x5 con alcune navi nascoste.
-    L'utente inserisce coordinate e riceve esito (colpito o mancato).
-    Il gioco termina quando tutte le navi sono affondate.
-
-Esercizio 57: Registro Presenze Studenti (ArrayList + Map)
-
-    Gestisci un registro dove ogni Studente ha un elenco di date di presenza.
-    Usa una Map<Studente, List<LocalDate>>.
-    Nel main, aggiungi presenze e stampa il riepilogo.
-
-Esercizio 58: Convertitore di Valute (Enum + Interfaccia)
-
-    Definisci un enum con valute e relativi tassi di cambio rispetto all’euro.
-    Crea un metodo per convertire da una valuta all’altra.
-    Nel main, chiedi importo e valuta di destinazione.
-
-Esercizio 59: Mini CRM (Clienti, Interazioni, Appuntamenti)
-
-    Crea le classi Cliente, Interazione, Appuntamento.
-    Collega ogni cliente a un elenco di interazioni.
-    Nel main, gestisci l’inserimento e la visualizzazione delle relazioni.
-
-Esercizio 60: Sistema di Statistiche Universitarie (Classi + Calcoli)
-
-    Gestisci una lista di Studente con media, esami sostenuti.
-    Calcola media generale, numero studenti sopra/sotto soglia.
-    Nel main, leggi dati da args o da input testuale.
-
-Esercizio 61: Generatore di Codici Fiscali (Stringhe + Calcoli)
-
-    Crea una classe CodiceFiscaleGenerator che, dato nome, cognome, data e luogo di
-    nascita, genera un codice fiscale simulato.
-    Nel main, mostra il codice per più persone.
-
-Esercizio 62: 
 
 
 
